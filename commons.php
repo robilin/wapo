@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Wapo scalffolding || Official website| Homepage</title>
+<title>Wapo scaffolding || Official website</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/revolution-slider.css" rel="stylesheet">
@@ -82,7 +82,7 @@
                                         <li><a href="feature-service-details.php">Formwork</a></li>
                                     </ul>
                                 </li>
-                               
+                                <li><a href="health-and-safety.php">Health & Safety</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>

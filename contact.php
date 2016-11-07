@@ -14,11 +14,11 @@
                               </div>
                               <div class="modal-body">
                                 <div class="appoinment-form-outer">
-                                    <form action="http://hasan.themexlab.com/category/business/factory-hub/factory-hub/contact.php" method="post">
+                                    <form action="sendmail.php" method="post">
 
                                         <!--Form Portlet-->
                                         <div class="form-portlet">
-                                            <h3>Lorem ipsum dolor.</h3>
+                                            <h3>Please fill the from below, we will love to hear from you</h3>
 
                                             <div class="row clearfix">
 
