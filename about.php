@@ -80,8 +80,8 @@
             <h1>About Us</h1>
             
             <ul class="bread-crumb">
-            	<li><a href="index-1.php">Home</a></li>
-                <li><a href="#">About Us</a></li>
+            	<li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About Us</a></li>
             </ul>
             
         </div>
