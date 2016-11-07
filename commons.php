@@ -37,7 +37,7 @@
                 <div class="top-right">
                 	<ul class="clearfix">
                     	<li><a href="#"><span class="fa fa-phone"></span> +255 716 029 263</a></li>
-                        <li><a href="#"><span class="fa fa-clock-o"></span> 9am - 5pm</a></li>
+                        <li><a href="#"><span class="fa fa-clock-o"></span> 8am - 5pm</a></li>
                         <li><a href="mailto:info@waposcaffolding.com"><span class="fa fa-at"></span> info@waposcaffolding.com</a></li>
                         <li><a href="#"><span class="fa fa-map-marker"></span> Find us on map</a></li>
                     </ul>
@@ -77,9 +77,9 @@
                                 <li><a href="about.php">About Us</a></li>
                                 <li class="dropdown"><a href="#">Feature Service</a>
                                     <ul>
-                                        <li><a href="feature-service-one.php">Scaffolding Services</a></li>
-                                        <li><a href="feature-service-two.php">Asbestos Services</a></li>
-                                        <li><a href="feature-service-details.php">Formwork</a></li>
+                                        <li><a href="scaffolding.php">Scaffolding Services</a></li>
+                                        <li><a href="asbestos.php">Asbestos Services</a></li>
+                                        <li><a href="formworks.php">Formwork</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="health-and-safety.php">Health & Safety</a></li>

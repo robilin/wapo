@@ -80,8 +80,8 @@
             <h1>Contact Us</h1>
             
             <ul class="bread-crumb">
-            	<li><a href="index-1.php">Home</a></li>
-                <li><a href="#">Contact Us</a></li>
+            	<li><a href="index.php">Home</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
             </ul>
             
         </div>

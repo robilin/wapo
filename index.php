@@ -111,7 +111,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h2>INDUSTRIAL SERVICE</h2></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h2>INDUSTRIAL SCAFFOLDING SERVICE</h2></div>
                     
                     <div class="tp-caption lfb tp-resizeme"
                     data-x="center" data-hoffset="-100"
@@ -125,7 +125,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="#" class="default-btn theme-btn">Our Services</a></div></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="scaffolding.php" class="default-btn theme-btn">Our Services</a></div></div>
                     
                     <div class="tp-caption lfb tp-resizeme"
                     data-x="center" data-hoffset="100"
@@ -139,7 +139,7 @@
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
                     data-endeasing="Power4.easeIn"
-                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="#" class="default-btn style-two theme-btn">Get Free Quote</a></div></div>
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="contact.php" class="default-btn style-two theme-btn">Get Free Quote</a></div></div>
                     
                     </li>
                     
@@ -158,7 +158,7 @@
                         data-endelementdelay="0.3"
                         data-endspeed="1200"
                         data-endeasing="Power4.easeIn"
-                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h2>WE PROVIDE THE BEST</h2></div>
+                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h2>WE PROVIDE THE BEST </h2></div>
                         
                         
                         <div class="tp-caption lfr tp-resizeme"
@@ -173,7 +173,7 @@
                         data-endelementdelay="0.3"
                         data-endspeed="1200"
                         data-endeasing="Power4.easeIn"
-                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h2>SUPPORT TRY TO LIVE UP TO</h2></div>
+                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h2>ASBESTOS SERVICES</h2></div>
                         
                         <div class="tp-caption lfb tp-resizeme"
                         data-x="right" data-hoffset="-200"
@@ -187,7 +187,7 @@
                         data-endelementdelay="0.3"
                         data-endspeed="1200"
                         data-endeasing="Power4.easeIn"
-                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="#" class="default-btn theme-btn">Our Services</a></div></div>
+                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="asbestos.php" class="default-btn theme-btn">Our Services</a></div></div>
                         
                         <div class="tp-caption lfb tp-resizeme"
                         data-x="right" data-hoffset="0"
@@ -201,7 +201,7 @@
                         data-endelementdelay="0.3"
                         data-endspeed="1200"
                         data-endeasing="Power4.easeIn"
-                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="#" class="default-btn style-two theme-btn">Get Free Quote</a></div></div>
+                        style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><div class="link-box"><a href="contact.php" class="default-btn style-two theme-btn">Get Free Quote</a></div></div>
                     
                     </li>
                     
@@ -231,7 +231,7 @@
                             <div class="text">
                                 <p>We are the experts in all types of scaffolding and high access construction. We pride ourselves on providing a fast, efficient and professional service to meet all your scaffolding requirements. We pride ourselves on our reliability, health and safety policies and operative training.</p>
                             </div>
-                            <div class="link"><a href="#" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
+                            <div class="link"><a href="scaffolding.php" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
                         </div>
                     </article>
                 </div>
@@ -248,7 +248,7 @@
                             <div class="text">
                                 <p>Removal of all types of asbestos-containing materials ACM's,Encapsulation (sealing/covering ACM's),Environmental & industrial cleaning,Asbestos Waste collection & disposal,Asbestos management & surveys,Bulk sampling & laboratory analysis,Reinstatement & thermal insulation</p>
                             </div>
-                            <div class="link"><a href="#" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
+                            <div class="link"><a href="asbestos.php" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
                         </div>
                     </article>
                 </div>
@@ -266,7 +266,7 @@
                                 <p>Wapo Scaffolding (T) Limited is one of the largest providers of formwork services to a wide variety of construction companies across Tanzania. We are well equipped to deal with the most complex of reinforced concrete projects; curved, splayed (angled formwork) and projects of that nature</p>
                             <p></p>
                             </div>
-                            <div class="link"><a href="#" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
+                            <div class="link"><a href="formworks.php" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
                         </div>
                     </article>
                 </div>
@@ -402,7 +402,7 @@
     <section class="parallax-section pt-80 pb-80" style="background-image:url(images/parallax/image-2.jpg);">
     	<div class="auto-container">
         	<div class="text-center">
-            	<h2>YOU ARE <strong>IN LOVE</strong> WITH WAPO SCAFFOLDING &amp; WANT TO <strong>WORK WITH US</strong></h2>
+            	<h2>YOU ARE <strong>IN LOVE</strong> WITH WAPO SCAFFOLDING &amp; WANT TO <strong>WORK WITH US?</strong></h2>
                 <div class="line"></div>
                 <a class="theme-btn default-btn" href="contact.php">REACH OUT TO US NOW</a>
                 <a class="theme-btn default-btn" href="about.php">LEARN MORE</a>       

@@ -144,6 +144,9 @@
          
     </section>
     
+   <!--gallery section-->
+  <?php include('projects.php');?>
+    
   <?php include('footer.php');?>
 <!--End pagewrapper-->
 
