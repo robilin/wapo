@@ -14,11 +14,11 @@
                               </div>
                               <div class="modal-body">
                                 <div class="appoinment-form-outer">
-                                    <form action="http://hasan.themexlab.com/category/business/factory-hub/factory-hub/contact.php" method="post">
+                                    <form action="sendmail.php" method="post">
 
                                         <!--Form Portlet-->
                                         <div class="form-portlet">
-                                            <h3>Lorem ipsum dolor.</h3>
+                                            <h4>Fill out the form below, we would love to meet you</h4>
 
                                             <div class="row clearfix">
 
@@ -77,375 +77,80 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/parallax/image-1.jpg);">
         <div class="auto-container">
-            <h1>Our Department</h1>
+            <h1>Scaffolding Services</h1>
             
             <ul class="bread-crumb">
             	<li><a href="index-1.php">Home</a></li>
-                <li><a href="#">Department</a></li>
+                <li><a href="#">Sacaffolding Services</a></li>
             </ul>
             
         </div>
         
         <!--Go Down Button-->
         <div class="go-down">
-            <div class="curve scroll-to-target" data-target="#department-section"><span class="icon fa fa-arrow-down"></span></div>
+            <div class="curve scroll-to-target" data-target="#about-section"><span class="icon fa fa-arrow-down"></span></div>
         </div>
         
     </section>
-
-    
-    <!--Start Our Department Areas-->
-    <section class="services-section pt-60" data-bg-color="#f1f1f1">
-        <div class="auto-container pb-35">
-            <div class="sec-title">
-                <h3>WE CARE OUR FEATURE SUPPORT</h3>
-                <h2>OUR FEATURE SERVICE</h2>
-                <div class="line"></div>
-            </div>
-            <div class="sec-content mt-50">
-                <div class="row services2 clearfix">
-            
-                    <!--Column-->
-                    <div class="col-md-4  col-sm-6 col-xs-12 column wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <article class="inner-box">
-                            <figure class="image"><a href="#"><img src="images/resource/featured-image-1.jpg" alt=""></a></figure>
-                            <h2>Agricultural processing</h2>
-                            <div class="text"><p>Proin nec lacus lacus. Sed vitae consectetur est, et felis. Fusce lacinia nibh vitae fermentum finibus. Donec amit malesuada efficitur dapibus. Cras euismod nunc tellus.</p></div>
-                            <div class="more-link">
-                                <a href="#" class="read-more mr-10"><span class="fa fa-caret-right"></span> Read More </a>
-                                <a href="#" class="read-more text-black"><span class="fa fa-caret-right"></span> Get Service </a>
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-4  col-sm-6 col-xs-12 column wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <article class="inner-box">
-                            <figure class="image"><a href="#"><img src="images/resource/featured-image-2.jpg" alt=""></a></figure>
-                            <h2>Chemical Research</h2>
-                            <div class="text"><p>Proin nec lacus lacus. Sed vitae consectetur est, et felis. Fusce lacinia nibh vitae fermentum finibus. Donec amit malesuada efficitur dapibus. Cras euismod nunc tellus.</p></div>
-                            <div class="more-link">
-                                <a href="#" class="read-more mr-10"><span class="fa fa-caret-right"></span> Read More </a>
-                                <a href="#" class="read-more text-black"><span class="fa fa-caret-right"></span> Get Service </a>
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-4  col-sm-6 col-xs-12 column wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <article class="inner-box">
-                            <figure class="image"><a href="#"><img src="images/resource/featured-image-3.jpg" alt=""></a></figure>
-                            <h2>Metal Engineering</h2>
-                            <div class="text"><p>Proin nec lacus lacus. Sed vitae consectetur est, et felis. Fusce lacinia nibh vitae fermentum finibus. Donec amit malesuada efficitur dapibus. Cras euismod nunc tellus.</p></div>
-                            <div class="more-link">
-                                <a href="#" class="read-more mr-10"><span class="fa fa-caret-right"></span> Read More </a>
-                                <a href="#" class="read-more text-black"><span class="fa fa-caret-right"></span> Get Service </a>
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-4  col-sm-6 col-xs-12 column wow fadeIn" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <article class="inner-box">
-                            <figure class="image"><a href="#"><img src="images/resource/featured-image-6.jpg" alt=""></a></figure>
-                            <h2>Mechanical Process</h2>
-                            <div class="text"><p>Proin nec lacus lacus. Sed vitae consectetur est, et felis. Fusce lacinia nibh vitae fermentum finibus. Donec amit malesuada efficitur dapibus. Cras euismod nunc tellus.</p></div>
-                            <div class="more-link">
-                                <a href="#" class="read-more mr-10"><span class="fa fa-caret-right"></span> Read More </a>
-                                <a href="#" class="read-more text-black"><span class="fa fa-caret-right"></span> Get Service </a>
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-4  col-sm-6 col-xs-12 column wow fadeIn" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <article class="inner-box">
-                            <figure class="image"><a href="#"><img src="images/resource/featured-image-5.jpg" alt=""></a></figure>
-                            <h2>Petroleum & Gas</h2> 
-                            <div class="text"><p>Proin nec lacus lacus. Sed vitae consectetur est, et felis. Fusce lacinia nibh vitae fermentum finibus. Donec amit malesuada efficitur dapibus. Cras euismod nunc tellus.</p></div>
-                            <div class="more-link">
-                                <a href="#" class="read-more mr-10"><span class="fa fa-caret-right"></span> Read More </a>
-                                <a href="#" class="read-more text-black"><span class="fa fa-caret-right"></span> Get Service </a>
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-4  col-sm-6 col-xs-12 column wow fadeIn" data-wow-delay="900ms" data-wow-duration="1500ms">
-                        <article class="inner-box">
-                            <figure class="image"><a href="#"><img src="images/resource/featured-image-4.jpg" alt=""></a></figure>
-                            <h2>Power & Energy</h2>
-                            <div class="text"><p>Proin nec lacus lacus. Sed vitae consectetur est, et felis. Fusce lacinia nibh vitae fermentum finibus. Donec amit malesuada efficitur dapibus. Cras euismod nunc tellus.</p></div>
-                            <div class="more-link">
-                                <a href="#" class="read-more mr-10"><span class="fa fa-caret-right"></span> Read More </a>
-                                <a href="#" class="read-more text-black"><span class="fa fa-caret-right"></span> Get Service </a>
-                            </div>
-                        </article>
-                    </div>
-                    
-                </div>             
-            </div>
-        </div>
-    </section>
     
     
-    <!--Why Us Section-->
-    <section class="why-us-section">
-    	
-        <div class="bg-grey"></div>
-        <div class="bg-image" data-bg-img="images/background/bg4.jpg"></div>
-        
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<div class="col-md-6 col-sm-6 col-xs-12 content-column">
-                	<article class="inner-box">
-                    	<div class="sec-title style-two style-three">
-                            <h3>Why choose us?</h3>
-                            <h2>The reasons that you should contact us</h2>
-                            <div class="line"></div>
+    <!--About Section-->
+    <section class="about-section" id="about-section">
+    	<!--Desc Box-->
+       
+       <!--Lower Content-->
+        <div class="lower-content" style="background-image:url(images/background/1.jpg);">
+        	<div class="auto-container">
+            	<div class="content-box">
+                	<div class="row clearfix">
+                    	
+                        <!--Column-->
+                    	<div class="col-md-7  col-sm-7 col-xs-12 column">
+                        	<h2 class="main-title">Scaffolding Services</h2>
+                            
+							<p>We are the experts in all types of scaffolding and high access construction. We pride ourselves on providing a fast, efficient and professional service to meet all your scaffolding requirements. We pride ourselves on our reliability, health and safety policies and operative training. Our scaffolding products comply with international standards (British standards and European norms). </p>
+							<h3>Our services includes</h3>
+                            <p></p>
+                            
+                            <ul class="styled-list">
+                            <li>Scaffold erection and dismantling</li>
+							<li>Scaffold calculation & design</li>
+							<li>Scaffold hire and contract hire (Short term and long term)</li>
+							<li>Hire and sales (scaffolding and scaffolding related materials)</li>
+							<li>Scaffold inspection</li>
+							<li>Confined space scaffolding</li>
+							<li>Free estimates & advice</li>
+							<li>Support and specialist scaffold</li>
+							<li>Access tower (Aluminium tower system)</li>
+							<li>Temporary roof and structure construction</li>
+							<li>Hoist and transport platforms</li>
+							<li>Scaffolding training</li>
+                            </ul>
+                            <p>Employees of Wapo Scaffolding regularly receive health and safety training in the form of in-house and/or external training. This training includes safety awareness or specific training such as CISRS training of scaffolders, working at height, asbestos awareness or on industry best practice such as SG4-10 and TG20.</p>
                         </div>
                         
-                        <div class="block">
-                        	<div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">1</div>
-                            <h4>Over 20 years of experience</h4>
-                            <p>Nunc fringilla eros vitae nisl posuere, ut consectetur nulla feugiat. Nullam ut mauris vitae tortor sodales efficitur.</p>
-                         </div>
-                         
-                         <div class="block">
-                        	<div class="number wow rollIn" data-wow-delay="300ms" data-wow-duration="1500ms">2</div>
-                            <h4>We have expert's and Guaranteed Work.</h4>
-                            <p>Quisque ac orci ante. Proin sit amet turpis lobortis, imperdiet nisi ut, viverra lorem. Nullam ex massa, euismod vel metus non.</p>
-                         </div>
-                         
-                         <div class="block">
-                        	<div class="number wow rollIn" data-wow-delay="600ms" data-wow-duration="1500ms">3</div>
-                            <h4>We are improving everyday</h4>
-                            <p>Nunc fringilla eros vitae nisl posuere, ut consectetur nulla feugiat. Nullam ut mauris vitae tortor sodales efficitur.</p>
-                         </div>
+                        
+                        <!--Column-->
+                    	<div class="col-md-5  col-sm-5 col-xs-12 column">
+                        	
+                            <article class="featured-box">
+                            	<figure class="image"><a href="#"><img src="images/resource/featured-image-5.jpg" alt=""></a></figure>
+                                <h2>Our Philosophy</h2>
+                                <div class="text"><p>World calss safety is a journey available to all, taken by some, yet completed by an elite few.</p></div>
+                            </article>
+                            
+                            
+                        </div>
+                        
+                    </div>
                     
-                    </article>
                 </div>
             </div>
         </div>
-    </section>
-
-    
-    <!--Team Section-->
-    <section class="team-section">
-        <div class="auto-container">
-            <div class="sec-title">
-                <h3>MEET OUR EXPERIENCED ENGINEERS</h3>
-                <h2>WE ARE EXPERTS IN OUR FIELD</h2>
-                <div class="line"></div>
-            </div>
-            <div class="sec-content mt-50">
-                <div class="row clearfix">  
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-1.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Timothy Newman</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-2.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Jeffrey Morgan</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-3.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Lori Robertson</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-4.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Brandon Fowler</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>                
-                    
-                </div>
-                
-            </div></div>
-    </section>
-
-    
-    <!--Fact Counter-->
-    <section class="fact-counter">
-        <div class="auto-container">
-            <div class="row clearfix">
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="700" data-stop="1500">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">SUCCESSFULL PROJECT</h4>
-                </article>
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="2000" data-stop="9108">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">HAPPY PEOPLE</h4>
-                </article>
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="500" data-stop="80">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">AWARD WINNING</h4>
-                </article>
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="1200" data-stop="619">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">RUNNING PROJECT</h4>
-                </article>
-                
-            </div>
-        </div>
+         
     </section>
     
-    
-    <!--Main Footer-->
-    <footer class="main-footer">
-    	
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-        	<!--Go Up Button-->
-            <div class="go-up">
-            	<div class="curve scroll-to-target" data-target="#main-header"><span class="icon fa fa-arrow-up"></span></div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget about-widget">
-                            <h2>About Factory Hub</h2>
-                            <div class="text">
-                                <p>Phasellus at quam tristique, cursus tellus vitae, convallis neque. Sed a lacinia sapien. Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in elementum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae.</p>
-                            </div>
-                        </div>                        
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget links">
-                            <h2>Useful Links</h2>   
-                            <ul>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms of Services</a></li>
-                                <li><a href="#">Service & Inspections</a></li>
-                                <li><a href="#">Special Services</a></li>
-                                <li><a href="#">Sitemap</a></li>
-                            </ul>                            
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget twitter-feed">
-                            <h2>Twitter Feed</h2>
-                            <div class="twitter" 
-                                data-twitter-query-count="3" 
-                                data-twitter-name="envato" 
-                                data-slide-count="2" 
-                                data-enable-slide="true">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget newsletter-widget">
-                            <h2>Newsletter Subscribe</h2>
-                            <div class="text"><p>Vivamus consequat, felis at aliquam elementum, massa sem dignissim elit, sit amet cursus massa tortor eget ante.</p>
-                            </div>
-                            <br>                            
-                            <div class="form-box">
-                                <form method="post" action="http://hasan.themexlab.com/category/business/factory-hub/factory-hub/index-1.php">
-                                    <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your email here..." required>                                                
-                                        <button type="submit" class="btn-submit"><span class="icon fa fa-long-arrow-right"></span></button>
-                                    </div>
-                                </form>
-                            </div>                            
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="contact-info">
-                        <ul>
-                            <li><div class="info-title"><span class="fa fa-phone"></span> Call Us Anytime</div><p class="info">(+064)-342-68372</p></li>
-                            <li><div class="info-title"><span class="fa fa-clock-o"></span> Opening Hours</div><p class="info">8:00 am - 6:00 pm</p></li>
-                            <li><div class="info-title"><span class="fa fa-at"></span> Email Us At</div><p class="info"><a href="mailto:info@factoryhub.com">info@factoryhub.com</a></p></li>
-                        </ul>
-                    </div>                
-                </div>
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-    	<div class="footer-bottom">
-            <div class="auto-container">
-                <!--Copyright-->
-                <div class="copyright">2016 &copy; FACTORY-HUB Service. Designed with &ensp;<span class="fa fa-heart"></span>&ensp; by Rashid.</div>
-                <div class="social-links">
-                    <a href="#" class="icon fa fa-facebook-f"></a>
-                    <a href="#" class="icon fa fa-twitter"></a>
-                    <a href="#" class="icon fa fa-pinterest"></a>
-                    <a href="#" class="icon fa fa-youtube-play"></a>
-                    <a href="#" class="icon fa fa-envelope"></a>
-                </div>
-            </div>
-        </div>
-        
-    </footer>
-    
-    
-</div>
+  <?php include('footer.php');?>
 <!--End pagewrapper-->
 
 <!--Scroll to top-->
@@ -458,5 +163,6 @@
 <script src="js/script.js"></script>
 
 </body>
+
 
 </html>

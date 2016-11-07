@@ -14,11 +14,11 @@
                               </div>
                               <div class="modal-body">
                                 <div class="appoinment-form-outer">
-                                    <form action="http://hasan.themexlab.com/category/business/factory-hub/factory-hub/contact.php" method="post">
+                                    <form action="sendmail.php" method="post">
 
                                         <!--Form Portlet-->
                                         <div class="form-portlet">
-                                            <h3>Lorem ipsum dolor.</h3>
+                                            <h4>Fill out the form below, we would love to meet you</h4>
 
                                             <div class="row clearfix">
 
@@ -77,379 +77,104 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/parallax/image-1.jpg);">
         <div class="auto-container">
-            <h1>Our Department</h1>
+            <h1>Asbestos Services</h1>
             
             <ul class="bread-crumb">
             	<li><a href="index-1.php">Home</a></li>
-                <li><a href="#">Department</a></li>
+                <li><a href="#">Asbestos Services</a></li>
             </ul>
             
         </div>
         
         <!--Go Down Button-->
         <div class="go-down">
-            <div class="curve scroll-to-target" data-target="#department-section"><span class="icon fa fa-arrow-down"></span></div>
+            <div class="curve scroll-to-target" data-target="#about-section"><span class="icon fa fa-arrow-down"></span></div>
         </div>
         
     </section>
     
-    <!--Top Services-->
-    <section class="top-services">
-        <div class="auto-container">
-            <div class="sec-title mb-80">
-                <h3>WE CARE ABOUT ClIENT</h3>
-                <h2>OUR OUTSTANDING SERVICES</h2>
-                <div class="line"></div>
-            </div>
-            <div class="row clearfix">
-                
-                <!--Column-->
-                <div class="col-md-4 col-sm-6 col-xs-12 column">
-                    <article class="inner-box">
-                        <div class="icon"><span class="flaticon-tractor"></span></div>
-                        <div class="content">
-                            <h3>Agricultural processing</h3>
-                            <div class="text">
-                                <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.</p>
-                            </div>
-                            
-                        </div>
-                    </article>
-                </div>
-                
-                <!--Column-->
-                <div class="col-md-4 col-sm-6 col-xs-12 column">
-                    <article class="inner-box">
-                        <div class="icon"><span class="flaticon-test-tube"></span></div>
-                        <div class="content">
-                            <h3>Chemical Research</h3>
-                            <div class="text">
-                                <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.</p>
-                            </div>
-                            
-                        </div>
-                    </article>
-                </div>
-                
-                <!--Column-->
-                <div class="col-md-4 col-sm-6 col-xs-12 column">
-                    <article class="inner-box">
-                        <div class="icon"><span class="flaticon-database"></span></div>
-                        <div class="content">
-                            <h3>Metal Engineering</h3>
-                            <div class="text">
-                                <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.</p>
-                            </div>
-                            
-                        </div>
-                    </article>
-                </div>
-                
-                <!--Column-->
-                <div class="col-md-4 col-sm-6 col-xs-12 column">
-                    <article class="inner-box">
-                        <div class="icon"><span class="flaticon-mechanic-tool"></span></div>
-                        <div class="content">
-                            <h3>Mechanical Process</h3>
-                            <div class="text">
-                                <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.</p>
-                            </div>
-                            
-                        </div>
-                    </article>
-                </div>
-                
-                <!--Column-->
-                <div class="col-md-4 col-sm-6 col-xs-12 column">
-                    <article class="inner-box">
-                        <div class="icon"><span class="flaticon-petrol-barrel"></span></div>
-                        <div class="content">
-                            <h3>Petroleum & Gas</h3>
-                            <div class="text">
-                                <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.</p>
-                            </div>
-                            
-                        </div>
-                    </article>
-                </div>
-                
-                <!--Column-->
-                <div class="col-md-4 col-sm-6 col-xs-12 column">
-                    <article class="inner-box">
-                        <div class="icon"><span class="flaticon-light-bulb-2"></span></div>
-                        <div class="content">
-                            <h3>Power & Energy</h3>
-                            <div class="text">
-                                <p>Proin nec lacus lacus. Sed vitae consectetur est, et mattis felis. Fusce lacinia nibh vitae fermentum finibus. Donec malesuada efficitur dapibus. Cras euismod nunc tellus, eget tempor purus.</p>
-                            </div>
-                            
-                        </div>
-                    </article>
-                </div>
-                
-                
-            </div>
-        </div>
-    </section>
     
-    
-    <!--Why Us Section-->
-    <section class="why-us-section">
-        
-        <div class="bg-grey"></div>
-        <div class="bg-image" data-bg-img="images/background/bg4.jpg"></div>
-        
-        <div class="auto-container">
-            <div class="row clearfix">
-                <div class="col-md-6 col-sm-6 col-xs-12 content-column">
-                    <article class="inner-box">
-                        <div class="sec-title style-two style-three">
-                            <h3>Why choose us?</h3>
-                            <h2>The reasons that you should contact us</h2>
-                            <div class="line"></div>
+    <!--About Section-->
+    <section class="about-section" id="about-section">
+    	<!--Desc Box-->
+       
+       <!--Lower Content-->
+        <div class="lower-content" style="background-image:url(images/background/1.jpg);">
+        	<div class="auto-container">
+            	<div class="content-box">
+                	<div class="row clearfix">
+                    	
+                        <!--Column-->
+                    	<div class="col-md-7  col-sm-7 col-xs-12 column">
+                        	<h2 class="main-title">Asbestos Services</h2>
+                            
+							<p>We are the experts in all types of scaffolding and high access construction. We pride ourselves on providing a fast, efficient and professional service to meet all your scaffolding requirements. We pride ourselves on our reliability, health and safety policies and operative training. Our scaffolding products comply with international standards (British standards and European norms). </p>
+							<h2>Asbestos Servicess</h2>
+                            <p></p>
+                            <h3>Removal of all types of asbestos-containing materials ACM's</h3>
+                            <ul class="styled-list">
+                        	<li>Asbestos Insulation Board (A.I.B.) ceiling boards/tiles, fire protection boards, partitions. Shuttering, door linings etc.</li>
+							<li>Thermal & acoustic insulation materials to pipework, boilers, flues and ducting.</li>
+							<li>Cement-based materials i.e. corrugated sheeting to sheds, garages, outbuildings, downpipes guttering, soffits, fascias etc.</li>
+							<li>Textured coatings to ceilings/walls, gasket materials, rope yarns and cloth/fire curtains.</li>
+							<li>Bonded asbestos materials articles made from rubber, plastic, resin or bitumen i.e. vinyl floor tiles, roofing felts etc.</li>
+                            </ul>
+                            <p></p>
+                            <h3>Encapsulation (sealing/covering ACM's)</h3>
+                            <ul class="styled-list">
+                        	<li>Repairing, sealing and covering of all types of ACM's where removal may not be necessary, but where the material requires to be maintained in a good condition for management purposes.</li>
+							</ul>
+							<p></p>
+                            <h3>Environmental & industrial cleaning</h3>
+                            <ul class="styled-list">
+                        	<li>Removal of nuisance dust and debris i.e. areas which are due for refurbishment to enable others to have a clean and safe environmental to work in.</li>
+							</ul>
+                            <p></p>
+                            <h3>Asbestos Waste collection & disposal</h3>
+                            <ul class="styled-list">
+                        	<li>Collection and disposal of small and large loads of ACM’s which may involve wrapping and labelling material prior to being transported to waste disposal site..</li>
+							</ul>
+							<p></p>
+                            <h3>Asbestos management & surveys</h3>
+                            <ul class="styled-list">
+                        	<li>Asbestos Management - periodic inspections, of ACM's on site, recording the condition of the materials, labelling ACM's and reporting any remedial measures which may need to be undertaken to comply with the Asbestos Management Regulations.</li>
+							<li>Management Surveys (Surveying buildings for ACM's)</li>
+							<li>Refurbishment & Demolition Surveys</li>
+							</ul>
+							<p></p>
+                            <h3>Bulk sampling & laboratory analysis</h3>
+                            <ul class="styled-list">
+                        	<li>This is a procedure which involves the taking of samples of materials which may contain asbestos and obtaining Laboratory analysis reports which clarify the content of any potential hazardous materials.</li>
+							</ul>
+							<p></p>
+                            <h3>Reinstatement & thermal insulation</h3>
+                            <ul class="styled-list">
+                        	<li>Replacing removed ACM's with suitable materials i.e. ceiling boards, partition walls, door linings, pipe and boiler insulation, loft insulation etc.</li>
+							</ul>
                         </div>
                         
-                        <div class="block">
-                            <div class="number wow rollIn" data-wow-delay="0ms" data-wow-duration="1500ms">1</div>
-                            <h4>Over 20 years of experience</h4>
-                            <p>Nunc fringilla eros vitae nisl posuere, ut consectetur nulla feugiat. Nullam ut mauris vitae tortor sodales efficitur.</p>
-                         </div>
-                         
-                         <div class="block">
-                            <div class="number wow rollIn" data-wow-delay="300ms" data-wow-duration="1500ms">2</div>
-                            <h4>We have expert's and Guaranteed Work.</h4>
-                            <p>Quisque ac orci ante. Proin sit amet turpis lobortis, imperdiet nisi ut, viverra lorem. Nullam ex massa, euismod vel metus non.</p>
-                         </div>
-                         
-                         <div class="block">
-                            <div class="number wow rollIn" data-wow-delay="600ms" data-wow-duration="1500ms">3</div>
-                            <h4>We are improving everyday</h4>
-                            <p>Nunc fringilla eros vitae nisl posuere, ut consectetur nulla feugiat. Nullam ut mauris vitae tortor sodales efficitur.</p>
-                         </div>
+                        
+                        <!--Column-->
+                    	<div class="col-md-5  col-sm-5 col-xs-12 column">
+                        	
+                            <article class="featured-box">
+                            	<figure class="image"><a href="#"><img src="images/resource/featured-image-5.jpg" alt=""></a></figure>
+                                <h2>Our Philosophy</h2>
+                                <div class="text"><p>World calss safety is a journey available to all, taken by some, yet completed by an elite few.</p></div>
+                            </article>
+                            
+                            
+                        </div>
+                        
+                    </div>
                     
-                    </article>
                 </div>
             </div>
         </div>
-    </section>
-
-    
-    <!--Team Section-->
-    <section class="team-section">
-        <div class="auto-container">
-            <div class="sec-title">
-                <h3>MEET OUR EXPERIENCED ENGINEERS</h3>
-                <h2>WE ARE EXPERTS IN OUR FIELD</h2>
-                <div class="line"></div>
-            </div>
-            <div class="sec-content mt-50">
-                <div class="row clearfix">  
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-1.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Timothy Newman</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-2.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Jeffrey Morgan</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-3.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Lori Robertson</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="col-md-6 col-sm-6 col-xs-12 column">
-                        <article class="row clearfix">
-                            <figure class="col-md-6 col-sm-6 col-xs-12 image"><a href="#"><img src="images/resource/team-4.jpg" alt=""></a></figure>
-                            <div class="col-md-6 col-sm-6 col-xs-12 content">
-                                <div class="title-box">
-                                    <h4>Brandon Fowler</h4>
-                                    <p>Senior Worker</p>
-                                </div>
-                                <div class="text">
-                                    <p>Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in, elementum scelerisque arcu. Curabitur sagittis non justo at ultricies odio ac diam finibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas dolorum nisi nostrum voluptate aperiam eligendi. </p>
-                                </div>
-                                <div class="more-link"><a href="#" class="read-more"><span class="fa fa-caret-right"></span> More Info </a></div>
-                                
-                            </div>
-                        </article>
-                    </div>                
-                    
-                </div>
-                
-            </div></div>
-    </section>
-
-    
-    <!--Fact Counter-->
-    <section class="fact-counter">
-        <div class="auto-container">
-            <div class="row clearfix">
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="700" data-stop="1500">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">SUCCESSFULL PROJECT</h4>
-                </article>
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="2000" data-stop="9108">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">HAPPY PEOPLE</h4>
-                </article>
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="500" data-stop="80">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">AWARD WINNING</h4>
-                </article>
-                
-                <!--Column-->
-                <article class="col-md-3 col-sm-6 col-xs-12 column wow fadeIn" data-wow-duration="0ms">
-                    <div class="count-outer"><span class="count-text" data-speed="1200" data-stop="619">0</span></div>
-                    <div class="line"></div>
-                    <h4 class="counter-title">RUNNING PROJECT</h4>
-                </article>
-                
-            </div>
-        </div>
+         
     </section>
     
-    
-    <!--Main Footer-->
-    <footer class="main-footer">
-    	
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-        	<!--Go Up Button-->
-            <div class="go-up">
-            	<div class="curve scroll-to-target" data-target="#main-header"><span class="icon fa fa-arrow-up"></span></div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget about-widget">
-                            <h2>About Factory Hub</h2>
-                            <div class="text">
-                                <p>Phasellus at quam tristique, cursus tellus vitae, convallis neque. Sed a lacinia sapien. Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in elementum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae.</p>
-                            </div>
-                        </div>                        
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget links">
-                            <h2>Useful Links</h2>   
-                            <ul>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms of Services</a></li>
-                                <li><a href="#">Service & Inspections</a></li>
-                                <li><a href="#">Special Services</a></li>
-                                <li><a href="#">Sitemap</a></li>
-                            </ul>                            
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget twitter-feed">
-                            <h2>Twitter Feed</h2>
-                            <div class="twitter" 
-                                data-twitter-query-count="3" 
-                                data-twitter-name="envato" 
-                                data-slide-count="2" 
-                                data-enable-slide="true">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget newsletter-widget">
-                            <h2>Newsletter Subscribe</h2>
-                            <div class="text"><p>Vivamus consequat, felis at aliquam elementum, massa sem dignissim elit, sit amet cursus massa tortor eget ante.</p>
-                            </div>
-                            <br>                            
-                            <div class="form-box">
-                                <form method="post" action="http://hasan.themexlab.com/category/business/factory-hub/factory-hub/index-1.php">
-                                    <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your email here..." required>                                                
-                                        <button type="submit" class="btn-submit"><span class="icon fa fa-long-arrow-right"></span></button>
-                                    </div>
-                                </form>
-                            </div>                            
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="contact-info">
-                        <ul>
-                            <li><div class="info-title"><span class="fa fa-phone"></span> Call Us Anytime</div><p class="info">(+064)-342-68372</p></li>
-                            <li><div class="info-title"><span class="fa fa-clock-o"></span> Opening Hours</div><p class="info">8:00 am - 6:00 pm</p></li>
-                            <li><div class="info-title"><span class="fa fa-at"></span> Email Us At</div><p class="info"><a href="mailto:info@factoryhub.com">info@factoryhub.com</a></p></li>
-                        </ul>
-                    </div>                
-                </div>
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-    	<div class="footer-bottom">
-            <div class="auto-container">
-                <!--Copyright-->
-                <div class="copyright">2016 &copy; FACTORY-HUB Service. Designed with &ensp;<span class="fa fa-heart"></span>&ensp; by Rashid.</div>
-                <div class="social-links">
-                    <a href="#" class="icon fa fa-facebook-f"></a>
-                    <a href="#" class="icon fa fa-twitter"></a>
-                    <a href="#" class="icon fa fa-pinterest"></a>
-                    <a href="#" class="icon fa fa-youtube-play"></a>
-                    <a href="#" class="icon fa fa-envelope"></a>
-                </div>
-            </div>
-        </div>
-        
-    </footer>
-    
-    
-</div>
+  <?php include('footer.php');?>
 <!--End pagewrapper-->
 
 <!--Scroll to top-->
@@ -463,5 +188,5 @@
 
 </body>
 
-<!-- Mirrored from hasan.themexlab.com/category/business/factory-hub/factory-hub/feature-service-two.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 06 Nov 2016 15:47:51 GMT -->
+
 </html>

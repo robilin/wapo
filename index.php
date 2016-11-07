@@ -264,6 +264,7 @@
                             <h3>Formwork Services</h3>
                             <div class="text">
                                 <p>Wapo Scaffolding (T) Limited is one of the largest providers of formwork services to a wide variety of construction companies across Tanzania. We are well equipped to deal with the most complex of reinforced concrete projects; curved, splayed (angled formwork) and projects of that nature</p>
+                            <p></p>
                             </div>
                             <div class="link"><a href="#" class="read-more normal-btn theme-btn"><span class="fa fa-caret-right"></span> MORE INFO</a></div>
                         </div>
@@ -404,102 +405,14 @@
             	<h2>YOU ARE <strong>IN LOVE</strong> WITH WAPO SCAFFOLDING &amp; WANT TO <strong>WORK WITH US</strong></h2>
                 <div class="line"></div>
                 <a class="theme-btn default-btn" href="contact.php">REACH OUT TO US NOW</a>
-                <a class="theme-btn default-btn" href="about.php">LEAN MORE</a>       
+                <a class="theme-btn default-btn" href="about.php">LEARN MORE</a>       
             </div>
         </div>
     </section>
     
     
-    <!--Main Footer-->
-    <footer class="main-footer">
-    	
-        <!--Footer Upper-->        
-        <div class="footer-upper">
-        	<!--Go Up Button-->
-            <div class="go-up">
-            	<div class="curve scroll-to-target" data-target="#main-header"><span class="icon fa fa-arrow-up"></span></div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget about-widget">
-                            <h2>About Factory Hub</h2>
-                            <div class="text">
-                                <p>Phasellus at quam tristique, cursus tellus vitae, convallis neque. Sed a lacinia sapien. Etiam dignissim sit amet felis ac sagittis. Sed libero arcu, pharetra et ante in elementum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae.</p>
-                            </div>
-                        </div>                        
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget links">
-                            <h2>Useful Links</h2>   
-                            <ul>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Terms of Services</a></li>
-                                <li><a href="#">Service & Inspections</a></li>
-                                <li><a href="#">Special Services</a></li>
-                                <li><a href="#">Sitemap</a></li>
-                            </ul>                            
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget twitter-feed">
-                            <h2>Twitter Feed</h2>
-                            <div class="twitter" 
-                                data-twitter-query-count="3" 
-                                data-twitter-name="envato" 
-                                data-slide-count="2" 
-                                data-enable-slide="true">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-xs-12 column">
-                        <div class="footer-widget newsletter-widget">
-                            <h2>Newsletter Subscribe</h2>
-                            <div class="text"><p>We would love to share with you some offers and relevant infomation about waposcaffolding.</p>
-                            </div>
-                            <br>                            
-                            <div class="form-box">
-                                <form method="post" action="sendmail.php">
-                                    <div class="form-group">
-                                        <input type="email" name="email" value="" placeholder="Enter your email here..." required>                                                
-                                        <button type="submit" class="btn-submit"><span class="icon fa fa-long-arrow-right"></span></button>
-                                    </div>
-                                </form>
-                            </div>                            
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="contact-info">
-                        <ul>
-                            <li><div class="info-title"><span class="fa fa-phone"></span> Call Us Anytime</div><p class="info">+255 716 029 263</p></li>
-                            <li><div class="info-title"><span class="fa fa-clock-o"></span> Opening Hours</div><p class="info">8:00 am - 5:00 pm</p></li>
-                            <li><div class="info-title"><span class="fa fa-at"></span> Email Us At</div><p class="info"><a href="mailto:info@waposcaffolding.com">info@waposcaffolding.com</a></p></li>
-                        </ul>
-                    </div>                
-                </div>
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-    	<div class="footer-bottom">
-            <div class="auto-container">
-                <!--Copyright-->
-                <div class="copyright">2016 &copy; Waposcaffolding. Designed with &ensp;<span class="fa fa-heart"></span>&ensp; by Tembotel.</div>
-                <div class="social-links">
-                    <a href="#" class="icon fa fa-facebook-f"></a>
-                    <a href="#" class="icon fa fa-twitter"></a>
-                    <a href="#" class="icon fa fa-pinterest"></a>
-                    <a href="#" class="icon fa fa-youtube-play"></a>
-                    <a href="#" class="icon fa fa-envelope"></a>
-                </div>
-            </div>
-        </div>
-        
-    </footer>
-    
-    
-</div>
+ <?php include('footer.php');?>
+ 
 <!--End pagewrapper-->
 
 <!--Scroll to top-->
