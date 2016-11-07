@@ -1,0 +1,66 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/10/2016 07:50
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-barrel-container:before { content: "\f100"; }
+.flaticon-chemistry:before { content: "\f101"; }
+.flaticon-crawler-hand-drawn-transport:before { content: "\f102"; }
+.flaticon-database:before { content: "\f103"; }
+.flaticon-database-1:before { content: "\f104"; }
+.flaticon-database-2:before { content: "\f105"; }
+.flaticon-flask:before { content: "\f106"; }
+.flaticon-gear-wheel:before { content: "\f107"; }
+.flaticon-idea:before { content: "\f108"; }
+.flaticon-light-bulb:before { content: "\f109"; }
+.flaticon-light-bulb-1:before { content: "\f10a"; }
+.flaticon-light-bulb-2:before { content: "\f10b"; }
+.flaticon-light-bulb-lamp:before { content: "\f10c"; }
+.flaticon-mechanic-tool:before { content: "\f10d"; }
+.flaticon-oil:before { content: "\f10e"; }
+.flaticon-oil-pumpjack:before { content: "\f10f"; }
+.flaticon-petrol-barrel:before { content: "\f110"; }
+.flaticon-power:before { content: "\f111"; }
+.flaticon-pumpjack:before { content: "\f112"; }
+.flaticon-science:before { content: "\f113"; }
+.flaticon-security-shield:before { content: "\f114"; }
+.flaticon-setting-tool:before { content: "\f115"; }
+.flaticon-settings:before { content: "\f116"; }
+.flaticon-settings-1:before { content: "\f117"; }
+.flaticon-shield:before { content: "\f118"; }
+.flaticon-technology:before { content: "\f119"; }
+.flaticon-technology-1:before { content: "\f11a"; }
+.flaticon-test-tube:before { content: "\f11b"; }
+.flaticon-tools-symbol:before { content: "\f11c"; }
+.flaticon-tractor:before { content: "\f11d"; }
+.flaticon-tractor-front:before { content: "\f11e"; }
+.flaticon-tractor-side-view:before { content: "\f11f"; }
+.flaticon-tractor-side-view-1:before { content: "\f120"; }
+.flaticon-transport:before { content: "\f121"; }
+.flaticon-transport-1:before { content: "\f122"; }
+.flaticon-two:before { content: "\f123"; }
+.flaticon-two-stick-man-variants-shaking-hands:before { content: "\f124"; }
